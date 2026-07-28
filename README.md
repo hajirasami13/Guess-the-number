@@ -1,2 +1,2 @@
 # Number-guessing-game
-A console-based C++ number guessing game featuring multiple difficulty levels, limited lives, input validation, and replay functionality.
+Guess the Number is a console-based C++ game where the player attempts to guess a randomly generated number within a limited number of lives. The game offers three difficulty levels, each with a different number range and life count, making the challenge suitable for both beginners and experienced players. After every incorrect guess, the game provides hints by indicating whether the guess is too high or too low. Players can replay the game as many times as they like, while built-in input validation ensures a smooth and user-friendly experience.
